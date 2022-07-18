@@ -1,5 +1,7 @@
 # README #
 # Learning GIT
+# A new comment was added for updateREADME Branch
+
 Important steps for git workflow:
 
 1. Initialize repository with git init
