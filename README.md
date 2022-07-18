@@ -8,5 +8,3 @@ Important steps for git workflow:
 4. Stage the changes for commit
 5. Commit chnages to version history
 6. Review previous changes with git log
-
-
