@@ -1,6 +1,7 @@
 # README #
 # Learning GIT
 # A new comment was added for updateREADME Branch
+# Adding a comment on github.com website
 
 Important steps for git workflow:
 
